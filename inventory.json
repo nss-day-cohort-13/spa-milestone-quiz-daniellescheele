@@ -1,0 +1,31 @@
+{
+  "cars": [
+    {
+      "make": "Volvo",
+      "model": "Wagon",
+      "year": "2001",
+      "price": "7600",
+      "color": "Navy",
+      "purchased": false,
+      "description": "This is a Volvo, so it's very cool to own it,but if it breaks down, you will need to buy a new car, call me."
+    },
+    {
+    	"make": "Toyota",
+      "model": "Matrix",
+      "year": "2009",
+      "price": "9599",
+      "color": "DarkGray",
+      "purchased": false,
+      "description": "This 2009 Toyota Matrix has been well taken care of. It smells like a granny has been driving it."
+    },
+    {
+      "make": "Toyota",
+      "model": "Land Cruiser",
+      "year": "2000",
+      "price": "8000",
+      "color": "ArmyGreen",
+      "purchased": false,
+      "description": "This will sling you around and make you feel safe all at once."
+     }
+	]
+}
